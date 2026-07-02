@@ -117,6 +117,15 @@ data/
 ```
 
 ---
+## Key Data Analyst Contributions
+-Conducted comparative analysis of customer demographics, product preferences (frozen yogurt vs. ice cream), and geographic foot traffic to identify high-revenue combinations.
+-Leveraged weekly performance metrics to optimize location, menu offerings, and operations, achieving a 100%+ increase in revenue by Simulation B through data-driven pivots.
+-Applied principles of effective prototyping, transforming early-stage assumptions into actionable strategies by analyzing real-time feedback from simulated market environments.
+-Interpreted trends across multiple business variables to evaluate trade-offs in speed vs. quality, growth vs. profitability, and competition vs. collaboration.
+-Synthesized qualitative insights from an entrepreneur interview into the analysis to understand real-world decision-making and risk management.
+
+This project demonstrated how analytical thinking, data interpretation, and iterative testing can drive agile business development—even in uncertain, fast-moving markets.
+---
 
 ## Results
 
