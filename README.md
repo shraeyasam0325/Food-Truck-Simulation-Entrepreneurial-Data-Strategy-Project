@@ -1,0 +1,2 @@
+# Food-Truck-Simulation-Entrepreneurial-Data-Strategy-Project
+I helped design and test a simulated frozen treat business using rapid prototyping and data analysis to guide strategic decisions. The project explored startup planning alongside an interactive food truck simulation, allowing us to test various business models across products, locations, and vehicle types in a dynamic, data-rich environment.
